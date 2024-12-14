@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertDialogBox</string>
+
+    <string name="des">Do You want to Delete this File</string>
+</resources>
